@@ -1,0 +1,2737 @@
+[
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 201
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 202
+  },
+  {
+    "missingItems": [
+      "White box under sink "
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Beds Need making"
+      ],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 204
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 205
+  },
+  {
+    "missingItems": [
+      "Hairdryer"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Beds Need making"
+      ],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 207
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 208
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Needs full clean"
+      ],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 209
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 210
+  },
+  {
+    "missingItems": [
+      "Toaster"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 211
+  },
+  {
+    "missingItems": [
+      "Wine Glasses"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 212
+  },
+  {
+    "missingItems": [
+      "Champagne Glasses"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 213
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "No Opening Windows",
+    "dyson": {
+      "shouldHave": true,
+      "has": true
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 214
+  },
+  {
+    "missingItems": [
+      "Champagne Glasses"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 215
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Needs full clean"
+      ],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 0,
+      "guestKeysMissing": 2,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 216
+  },
+  {
+    "missingItems": [
+      "Toaster"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Needs full clean",
+        "Shower Stinks",
+        "Shower Mold"
+      ],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": true,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 217
+  },
+  {
+    "missingItems": [
+      "Champagne Glasses"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks"
+      ],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "No Opening Windows",
+    "dyson": {
+      "shouldHave": true,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 218
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 219
+  },
+  {
+    "missingItems": [
+      "Toaster",
+      "Champagne Glasses"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Beds Need making"
+      ],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 220
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "No Opening Windows",
+    "dyson": {
+      "shouldHave": true,
+      "has": true
+    },
+    "keys": {
+      "guestKeysPresent": 0,
+      "guestKeysMissing": 2,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 222
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Mold"
+      ],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 223
+  },
+  {
+    "missingItems": [
+      "Wine Glasses"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Mold",
+        "Shower Silicone"
+      ],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 225
+  },
+  {
+    "missingItems": [
+      "Wine Glasses"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Mold",
+        "Kettle Limescale"
+      ],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "No Opening Windows",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 226
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Beds Need making",
+        "Shower Stinks"
+      ],
+      "maintenance": []
+    },
+    "floor": 2,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": true
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 228
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 3,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 303
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 3,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 304
+  },
+  {
+    "missingItems": [
+      "Wine Glasses"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Mold",
+        "Shower Silicone"
+      ],
+      "maintenance": []
+    },
+    "floor": 3,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 305
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 3,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 306
+  },
+  {
+    "missingItems": [
+      "Wine Glasses"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 3,
+    "category": "Disabled Access Bathroom",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 307
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 401
+  },
+  {
+    "missingItems": [
+      "Champagne Glasses"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 402
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Silicone"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 403
+  },
+  {
+    "missingItems": [
+      "Wine Glasses"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Beds Need making",
+        "Bird Poop"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 404
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Bird Poop",
+        "Shower Stinks",
+        "Shower Mold",
+        "Bath Towels"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 405
+  },
+  {
+    "missingItems": [
+      "Champagne Glasses"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 406
+  },
+  {
+    "missingItems": [
+      "Wine Glasses"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Mold"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 407
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": true
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 408
+  },
+  {
+    "missingItems": [
+      "Ironing Board"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 409
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Mold"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 410
+  },
+  {
+    "missingItems": [
+      "Toaster"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Mold",
+        "Shower Silicone"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 411
+  },
+  {
+    "missingItems": [
+      "Mugs"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Microwave needs clean"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 412
+  },
+  {
+    "missingItems": [
+      "Iron",
+      "Ironing Board",
+      "Hairdryer"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 0,
+      "guestKeysMissing": 2,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 413
+  },
+  {
+    "missingItems": [
+      "Iron",
+      "Ironing Board",
+      "Hairdryer",
+      "Kettle",
+      "Mugs",
+      "Kitchen towel",
+      "Washing up Liquid"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Beds Need making",
+        "Shower Stinks",
+        "Shower Mold",
+        "Shower Silicone",
+        "Bath Towels"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 0,
+      "guestKeysMissing": 2,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 414
+  },
+  {
+    "missingItems": [
+      "Toaster",
+      "Iron",
+      "Ironing Board",
+      "Hairdryer",
+      "Kitchen towel"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Beds Need making",
+        "Shower Stinks",
+        "Shower Mold",
+        "Bath Towels"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 0,
+      "guestKeysMissing": 2,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 415
+  },
+  {
+    "missingItems": [
+      "Toaster"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Mold"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Single Beds",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 416
+  },
+  {
+    "missingItems": [
+      "Iron",
+      "Ironing Board",
+      "Hairdryer"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Mold",
+        "Microwave needs clean",
+        "Kettle Limescale",
+        "Bath Towels"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 417
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 418
+  },
+  {
+    "missingItems": [
+      "Toaster",
+      "Iron",
+      "Ironing Board",
+      "Hairdryer",
+      "Glasses",
+      "Wine Glasses",
+      "Washing up Liquid",
+      "White box under sink ",
+      "Salt & Pepper Pot"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Beds Need making"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 419
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Single Beds",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 420
+  },
+  {
+    "missingItems": [
+      "Mugs"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Mold",
+        "Kettle Limescale"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Single Beds",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 421
+  },
+  {
+    "missingItems": [
+      "Iron",
+      "Ironing Board",
+      "Hairdryer",
+      "Kitchen towel"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Beds Need making",
+        "Bath Towels"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 0,
+      "guestKeysMissing": 2,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 422
+  },
+  {
+    "missingItems": [
+      "Wine Glasses"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Needs full clean",
+        "Shower Stinks",
+        "Shower Mold"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 423
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Mold",
+        "Shower Silicone"
+      ],
+      "maintenance": []
+    },
+    "floor": 4,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 424
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 5,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 501
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 5,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 502
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Mold"
+      ],
+      "maintenance": []
+    },
+    "floor": 5,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 503
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Needs full clean"
+      ],
+      "maintenance": []
+    },
+    "floor": 5,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 504
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Needs full clean",
+        "Shower Stinks",
+        "Shower Mold"
+      ],
+      "maintenance": []
+    },
+    "floor": 5,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 505
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 5,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 506
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks"
+      ],
+      "maintenance": []
+    },
+    "floor": 5,
+    "category": "Disabled Access Bathroom",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 507
+  },
+  {
+    "missingItems": [
+      "Mugs",
+      "Wine Glasses"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 601
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 602
+  },
+  {
+    "missingItems": [
+      "Wine Glasses"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 603
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 604
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Microwave needs clean"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 605
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 606
+  },
+  {
+    "missingItems": [
+      "Wine Glasses"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Disabled Access Bathroom",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 607
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 609
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Bird Poop",
+        "Shower Stinks"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 610
+  },
+  {
+    "missingItems": [
+      "Wine Glasses"
+    ],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Mold",
+        "Microwave needs clean",
+        "Bath Towels"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 611
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 612
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 613
+  },
+  {
+    "missingItems": [
+      "Mugs",
+      "Champagne Glasses"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 614
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Microwave needs clean"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 616
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": true,
+      "has": true
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Bath Towels"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": true
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 617
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "No Opening Windows",
+    "dyson": {
+      "shouldHave": true,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 618
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "No Opening Windows",
+    "dyson": {
+      "shouldHave": true,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 619
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Mezzanine",
+    "dyson": {
+      "shouldHave": true,
+      "has": true
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 620
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Silicone"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Mezzanine",
+    "dyson": {
+      "shouldHave": false,
+      "has": true
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 621
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Mezzanine",
+    "dyson": {
+      "shouldHave": true,
+      "has": true
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 622
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Microwave needs clean"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Mezzanine",
+    "dyson": {
+      "shouldHave": true,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 623
+  },
+  {
+    "missingItems": [
+      "Toaster",
+      "Toaster",
+      "Iron",
+      "Ironing Board",
+      "Hairdryer",
+      "Mugs",
+      "Glasses",
+      "Wine Glasses"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Microwave needs clean",
+        "Kettle Limescale"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Double",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 0,
+      "guestKeysMissing": 2,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 624
+  },
+  {
+    "missingItems": [
+      "Ironing Board",
+      "Hairdryer",
+      "Kettle",
+      "Mugs",
+      "Glasses",
+      "Glasses",
+      "Wine Glasses",
+      "Washing up Liquid"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Beds Need making",
+        "Kettle Limescale"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Mezzanine",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 625
+  },
+  {
+    "missingItems": [
+      "Mugs",
+      "White box under sink "
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Bird Poop",
+        "Microwave needs clean",
+        "Kettle Limescale"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Mezzanine",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 626
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Needs full clean"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Mezzanine",
+    "dyson": {
+      "shouldHave": true,
+      "has": true
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 627
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [
+        "Shower Stinks",
+        "Shower Mold",
+        "Shower Silicone",
+        "Bath Towels"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Mezzanine",
+    "dyson": {
+      "shouldHave": true,
+      "has": true
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 628
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": false
+    },
+    "issues": {
+      "cleaning": [
+        "Microwave needs clean",
+        "Bath Towels"
+      ],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "Mezzanine",
+    "dyson": {
+      "shouldHave": true,
+      "has": true
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 629
+  },
+  {
+    "missingItems": [],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": false,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "No Opening Windows",
+    "dyson": {
+      "shouldHave": false,
+      "has": true
+    },
+    "keys": {
+      "guestKeysPresent": 1,
+      "guestKeysMissing": 1,
+      "masterKeyPresent": 0,
+      "masterKeyMissing": 1
+    },
+    "room": 630
+  },
+  {
+    "missingItems": [
+      "Wine Glasses"
+    ],
+    "aircon": {
+      "shouldHave": false,
+      "has": false
+    },
+    "wifi": {
+      "shouldHave": true,
+      "has": true
+    },
+    "issues": {
+      "cleaning": [],
+      "maintenance": []
+    },
+    "floor": 6,
+    "category": "No Opening Windows",
+    "dyson": {
+      "shouldHave": false,
+      "has": false
+    },
+    "keys": {
+      "guestKeysPresent": 2,
+      "guestKeysMissing": 0,
+      "masterKeyPresent": 1,
+      "masterKeyMissing": 0
+    },
+    "room": 631
+  }
+]
